@@ -10,16 +10,3 @@ const fibonacci = function(num) {
 
 // Do not edit below this line
 module.exports = fibonacci;
-
-
-/*
-create empty array
-for loop starting at 1
-
-    if index - 2 < 0
-        return 1
-    else 
-        push array[index-1] + array[index-2]
-
-
-*/
